@@ -1,9 +1,9 @@
 # Underscourge
-Life in the hot and often toxic caverns and tunnels of the undercity is hard and unpredictable. You could leave, and people do, but the allure of the gleaming city above has a hold on people. There's money and power to be had, and in theory one can gain both through a combination of hard work and luck. But if so, you've never seen it happen. No, you and your companions remain in this fetid undercity, where you started at an early age venturing out into the tunnels to hunt, into the landfills to scavenge for useful items. To the extent you're even acknowledged by those in the overcity, it is because of your usefulness to them. The most you can hope for is stable employment in one of the Conclave Houses above, but how much of yourself are you willing to sacrifice to get there?
+Life in the hot and often toxic caverns and tunnels of the undercity is hard and unpredictable. You could leave, and people do, but the allure of the gleaming city above has a hold on people, even those in its shadow. There's money and power to be had, and in theory one can gain both through a combination of hard work and luck. But if so, you've never seen it happen. No, you and your companions remain in this fetid undercity, where you started at an early age venturing out into the tunnels to hunt, into the landfills to scavenge for useful items. To the extent you're even acknowledged by those in the overcity, it is because of your usefulness to them. The most you can hope for is stable employment in one of the Conclave Houses above, but how much of yourself are you willing to sacrifice to get there?
 
 Most people in the Underscourge fall into one of two categories: working stiffs or the riffraff. The working stiffs hold down regular jobs, some commuting into the overcity to work in fancy restaurants; serve as housecleaners, maids, nannies, and butlers; work in the hydroponics farms; perform various building, mining, and manual labor tasks; seek access to one of the more specialized trades in the overcity, a nearly impossible undertaking; or work directly in one of the Conclave Houses. They take jobs in the overcity that the manicured inhabitants of the Conclave Houses won't take. 
 
-But you're not a working stiff. You're what they call the riffraff. You're not afraid of hard work, mind. Far from it. But a life of wage earning and the soul-grinding that comes along with it was never in the cards for you. You're not just willing to get your hands dirty, you're willing to get them bloody if the price is right. You're the mercs and the hired hands, the hunters and the nightlife, the people who haunt the dangerous passages, selling your sword or your spells to those who can pay, or taking from those who don't want to. Even the gods play mercenary down here. You sign on to the private armies of the Underguilds, themselves bankrolled by the Conclave Houses. You sneak around the city on the hunt for valuable information, and you take care of problems. Dirty work is your business, and in the perpetual gaslight gloom of the undercity, business is always good.
+You're not a working stiff. You're what they call the riffraff. You're not afraid of hard work, mind. Far from it. But a life of wage earning and the soul-grinding that comes along with it was never in the cards for you. You're not just willing to get your hands dirty, you're willing to get them bloody if the price is right. You're the mercs and the hired hands, the hunters and the nightlife, the people who haunt the dangerous passages, selling your sword or your spells to those who can pay, or taking from those who don't want to. Even the gods play mercenary down here. You sign on to the private armies of the Underguilds, themselves bankrolled by the Conclave Houses. You sneak around the city on the hunt for valuable information, and you take care of problems. Dirty work is your business, and in the perpetual gaslight gloom of the undercity, business is always good.
 
 But the Conclave Houses don't make it too easy. Moral panic sweeps like waves over the inhabitants of the overcity, and Scourge Enforcers (all of whom are, or were, regular riffraff like you) regularly come through in their heavy riot armor and round up anyone who looks at them funny, all in the name of clamping down on crime. The best players of undercity factional politics make it their business to know what's coming and when, either because they engineered the situation, or because they pay top dacite, and they can 
 
@@ -22,14 +22,31 @@ Principal types of sentient folk in *Underscourge*.
 #### Humans
 Baseline kin. Most people you meet are humans.
 
+#### Arthron
+Chitinous insect people. Hive-minded.
+
+Four Types: Ants, Bees, Beetles, Roaches. Other subcommunities may exist.
+
 #### Drakken
 Claim to be descended from the dragons of old, but there aren't any dragons around to ask.
+
+Four types: Sanguine, Choleric, Melancholic, Phlegmatic.
 
 #### Gnothon
 Fungal, weird. Love to make and destroy.
 
+Three Types: Gnomic, Goblinoid, Halfling
+
+Gnomic trait: Mycorrhizic Recall. You belong to a vast fungal network that also includes other Gnomes. Use an action to query this network in search of answers. 
+
+Goblinoid trait: Smutblood. Your blood is toxic and/or caustic to anyone but other goblinoids. Use an action to weaponize it or harvest it for inclusion in alchemical recipes.
+
+Halfling trait: Extremely personable. People you meet feel more positively inclined toward you than even the situation might warrant. Use an action to change the reaction characterization of anyone who can understand your gestures and tone of voice (they needn't speak your language.)
+
 #### Hollowkin
-Construct people. Wicker and brass.
+Construct people. Wicker and brass. Clockworks. All artifice.
+
+Trait: Upgradeable. You can attach weapons, armor, and tools to yourself. Use an action
 
 #### Sidhe
 Elves, if their legends are correct. Long-lived and disconnected from reality. Mad, if you ask some.
@@ -37,13 +54,18 @@ Elves, if their legends are correct. Long-lived and disconnected from reality. M
 #### Stonekin
 They look like stone. They're tough as stone. Patient, too. Maybe they are stone.
 
-#### Tusker
+Three Types: Dreggers, Magmata, Metamorphs
+
+#### Zoan
+Animalfolk. People with feathers or tusks. 
+
+Four Types: Birdfolk, Catfolk, Ratfolk, Tusker. Other subcommunities may exist.
 
 ### Classes
 Classes are collections of [Actions](#taking-actions) and [Equipment](#items-and-equipment). In some cases 
 
 ### Underguilds
-
+Powerful underworld factions bankrolled by the Conclave Houses, pursuing hidden agendas via well-publicized means.
 
 ## Actions
 Actions are things your character knows how to do. Each action defines any prerequisites, the ability pool used, equipment necessary to take the action, success/failure conditions, the number of successes necessary to succeed, the speed of the action, and the range and duration of the Action's effects.
@@ -55,11 +77,14 @@ Most actions can be trained or improved. Training and improvement provide extra 
 ### Magic
 Magic is a special category of Actions. All magic must be trained to use, since it requires study, meditation, or some other knoweldge or ritual based means of unlocking esoteric energies. 
 
-### Artifice
+### Artifice and Alchemy
+Artifice is a kind of Action that allows one to create and repair useful things using tools, components, reagents, and such.
 
 ## Items and Equipment
+The things you carry, the things you wear, and the services you buy.
 
-
+### Currency
+Money and equivalent means of exchange.
 
 ## Procedures
 
